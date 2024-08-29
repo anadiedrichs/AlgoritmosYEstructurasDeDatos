@@ -65,3 +65,6 @@ FIN SI
 
 FINPROGRAMA
 ```
+### CODIGO EN C++
+
+[en el archivo EJERCICIO-7-TARJETA.cpp](EJERCICIO-7-TARJETA.cpp)
