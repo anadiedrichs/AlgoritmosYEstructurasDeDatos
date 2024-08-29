@@ -1,9 +1,20 @@
 # CONTENIDO 3
+
 ## EJERCICIOS OPTATIVOS
+
 ### EJERCICIO 7
+
+Se sabe que en un restaurante en cada una de sus ventas cobradas con tarjeta de crédito se cobra un recargo: MasterCard(10%), American Express(8%), Visa(4%). 
+
+Pago contado o con otras tarjetas no tienen recargo. 
+
+Considerar también que los días lunes o miércoles se hace un 5% de descuento, siempre y cuando sean más de 2 comensales. 
+
+Informar el total a cobrarle al cliente.
 
 ### SEUDOCÓDIGO
 
+```
 PROGRAMA pagosTarjeta
 VAR
 contadoTarjeta, ventas : REAL
@@ -53,4 +64,4 @@ SI cantCliente > 2 ENTONCES
 FIN SI
 
 FINPROGRAMA
-
+```
